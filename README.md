@@ -1,3 +1,3 @@
-# Grokking Algorithms
-This repo contains codes in Python 3 for the book Grokking Algorithms (http://manning.com/bhargava).
+# Livro Etendendo Algoritimos
+Esse repositório contém codigos em python 3 usado no livro Entendendo Algoritimos (https://novatec.com.br/livros/entendendo-algoritmos/).
 
